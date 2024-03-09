@@ -2,7 +2,7 @@ Eratosthenes.py is an implementation of the Sieve of Eratosthenes, a method to f
 
 It accepts two command line arguments: lowerbound and n
 
--lowerbound {integer value} -> Sets a lower bound on the displayed prime values
+-lowerbound {integer value} -> Sets a lower bound on the displayed prime values  
 -n {integer value} -> sets an upper bound on the displayed prime values.
 
 lowerbound is defaulted at 0, which will show all prime numbers 2 through n.
